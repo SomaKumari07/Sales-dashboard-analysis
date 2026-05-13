@@ -39,7 +39,7 @@ The analysis helps the business improve marketing strategies and increase future
 
 # 🖼️ Dashboard Preview
 
-📷 Dashboard Screenshot: `Dashboard screenshot`
+📷 Dashboard Screenshot: `Dasboard screenshot.png`
 
 # 💡 Key Business Insights
 
