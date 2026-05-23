@@ -37,33 +37,24 @@ The analysis helps the business improve marketing strategies and increase future
 ✔️ Category-wise Sales Analysis
 ✔️ Interactive Filters & Slicers
 
-*🖼️ Dashboard Preview
+🖼️ Dashboard Preview
 
 ![Dashboard Preview](Images/dashboard_screenshot.png)
 
 💡 Key Business Insights
 
 👩 Women customers contributed approximately **65%** of total purchases.
-
 📍 Maharashtra, Karnataka, and Uttar Pradesh were the top-performing states.
-
 🧑 Adult customers aged **30–49 years** generated the highest number of orders.
-
 🛒 Amazon, Flipkart, and Myntra contributed nearly **80%** of total revenue.
-
 📊 Customer purchasing trends varied across different months and categories.
-
 
 🚀 Business Recommendations
 
 🎯 Focus marketing campaigns on women customers aged 30–49 years.
-
 📍 Increase promotional activities in top-performing states.
-
 🤝 Strengthen partnerships with Amazon, Flipkart, and Myntra.
-
 💸 Offer targeted discounts and personalized promotions to customers.
-
 
 📚 Project Learning Outcomes
 
@@ -89,11 +80,8 @@ Through this project, I gained hands-on experience in:
 🔮 Future Improvements
 
 🚀 Build dashboard in Power BI
-
 📊 Add advanced KPIs and DAX measures
-
 🗄️ Integrate SQL-based data extraction
-
 📈 Add forecasting and trend prediction
 
 👩‍💻 Author
