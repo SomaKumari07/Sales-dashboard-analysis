@@ -37,7 +37,7 @@ The analysis helps the business improve marketing strategies and increase future
 ✔️ Category-wise Sales Analysis
 ✔️ Interactive Filters & Slicers
 
-# 🖼️ Dashboard Preview
+*🖼️ Dashboard Preview
 
 ![Dashboard Preview](Images/dashboard_screenshot.png)
 
