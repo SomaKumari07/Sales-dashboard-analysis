@@ -1,10 +1,10 @@
-# 📊 Vrinda Store Sales Analysis Dashboard
+## 📊 Vrinda Store Sales Analysis Dashboard
 
-## 📝 Project Overview
+📝 Project Overview
 
 This project focuses on analyzing Vrinda Store’s 2022 sales data to identify customer purchasing behavior, sales trends, and business growth opportunities. An interactive Excel dashboard was created to transform raw sales data into meaningful business insights that support data-driven decision-making.
 
-# 🎯 Business Objective
+🎯 Business Objective
 
 The objective of this project is to help Vrinda Store understand:
 
@@ -16,7 +16,7 @@ The objective of this project is to help Vrinda Store understand:
 
 The analysis helps the business improve marketing strategies and increase future sales performance.
 
-# 🛠️ Tools & Technologies Used
+🛠️ Tools & Technologies Used
 
 📌 Microsoft Excel
 📌 Pivot Tables
@@ -26,7 +26,7 @@ The analysis helps the business improve marketing strategies and increase future
 📌 Dashboard Design
 📌 Business Analysis
 
-# 📈 Key Features of Dashboard
+📈 Key Features of Dashboard
 
 ✔️ Sales vs Orders Analysis
 ✔️ Monthly Sales Trend Analysis
@@ -41,7 +41,7 @@ The analysis helps the business improve marketing strategies and increase future
 
 ![Dashboard Preview](Images/dashboard_screenshot.png)
 
-# 💡 Key Business Insights
+💡 Key Business Insights
 
 👩 Women customers contributed approximately **65%** of total purchases.
 
@@ -54,7 +54,7 @@ The analysis helps the business improve marketing strategies and increase future
 📊 Customer purchasing trends varied across different months and categories.
 
 
-# 🚀 Business Recommendations
+🚀 Business Recommendations
 
 🎯 Focus marketing campaigns on women customers aged 30–49 years.
 
@@ -65,7 +65,7 @@ The analysis helps the business improve marketing strategies and increase future
 💸 Offer targeted discounts and personalized promotions to customers.
 
 
-# 📚 Project Learning Outcomes
+📚 Project Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -76,7 +76,7 @@ Through this project, I gained hands-on experience in:
 📌 Sales Performance Analysis
 📌 Analytical Thinking
 
-# 📂 Project Files
+📂 Project Files
 
 | 📁 Folder | 📄 Description                 |
 | --------- | ------------------------------ |
@@ -86,7 +86,7 @@ Through this project, I gained hands-on experience in:
 | Report    | Detailed project report        |
 
 
-# 🔮 Future Improvements
+🔮 Future Improvements
 
 🚀 Build dashboard in Power BI
 
@@ -96,7 +96,7 @@ Through this project, I gained hands-on experience in:
 
 📈 Add forecasting and trend prediction
 
-# 👩‍💻 Author
+👩‍💻 Author
 ## Soma Kumari
 🌱 Aspiring Data Analyst
 📊 Excel | SQL | Power BI | Python
